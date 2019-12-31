@@ -28,7 +28,9 @@
 			<key>CFBundleURLName</key>
 			<string>GrowingIO</string>
 			<key>CFBundleURLSchemes</key>
-			<array/>
+			<array>
+				<string>growing.xxoo</string>
+			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
