@@ -14,7 +14,7 @@
     "react-native": "0.61.5",
     "react-native-gesture-handler": "^1.5.2",
     "react-native-growing-cdp": "^1.0.0-beta",
-    "react-native-reanimated": "^1.4.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-root-siblings": "^4.0.4",
     "react-native-screens": "^2.0.0-alpha.22",
     "react-navigation": "^4.0.10",
